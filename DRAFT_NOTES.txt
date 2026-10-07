@@ -1,0 +1,16 @@
+FIRST DRAFT — not published.
+Upload the contents of this folder to your existing GitHub Pages repository when ready. Preserve your domain settings.
+/connect/ contains the QR landing page. Confirm it is live before printing a QR decal.
+Current header photo is temporary until the Ram + Big Tex + team photo arrives.
+Google review link is connected; a live review widget is not integrated because no widget source or verified review data was supplied.
+Videos omitted per request. No named service packages or separate Meet the Team section.
+
+Rental page prepared at rentals/index.html, unlinked and noindex. Current agreement PDF included for review. Online signing is not connected. Dump trailer rates and disposal allowance are not established. Not published.
+
+Rental pricing updated: utility $275 / 1,000 lb; Big Tex $450 / 2,000 lb. Both shown with existing 2-day service period. Big Tex overage/special-item rates and agreement still need finalization. Existing PDF is explicitly labeled utility only. Not published.
+
+V3 review: owner photo beside hero text, logo navy #01295a throughout, original-source photo sliders at 78/22, richer service/commercial pages, pool and hot-tub work added. Rental page remains unlinked.
+
+Original cleanup photos received at 1536 x 2048. All four matched cleanup sliders now use these larger source files with new URLs to avoid cached Medium images. Unpaired 4067/4068/4069 originals retained for future selection.
+
+Final review header: user-edited real IMG_4363 2.jpg, natural glare preserved, no generative edits. Pending before live launch: final rental overage terms and Big Tex agreement, signing connection, browser visual/Jobber submission review.
